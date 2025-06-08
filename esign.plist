@@ -9,7 +9,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>https://forever.nekoo.eu.org/vslastonefixedall2023.ipa</string>
+<string>https://github.com/Tweakdoorapp/tweakdoor/releases/download/ipa/ESign_5.0.2_1749398306.ipa</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -31,7 +31,7 @@
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>com.i2gsKV4.outppssppSignedipa</string>
+<string>p3.xyz.yyyue.esign</string>
 <key>bundle-version</key>
 <string>1.3.5</string>
 <key>kind</key>
