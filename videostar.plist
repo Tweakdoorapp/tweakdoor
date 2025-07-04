@@ -51,7 +51,7 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>https://github.com/Tweakdoorapp/tweakdoor/releases/download/ipa/Tweakdoor.Store_1.0.ipa</string>
+            <string>https://github.com/Tweakdoorapp/tweakdoor/releases/download/ipa/Pic.Clone.AI_1.5.ipa</string>
           </dict>
           <dict>
             <key>kind</key>
@@ -73,7 +73,7 @@
         <key>metadata</key>
         <dict>
           <key>bundle-identifier</key>
-          <string>tweakdoor.netlify.app</string>
+          <string>pic.clone.animeb</string>
           <key>bundle-version</key>
           <string>1.0</string>
           <key>kind</key>
@@ -81,7 +81,7 @@
           <key>platform-identifier</key>
           <string>com.apple.platform.iphoneos</string>
           <key>title</key>
-          <string>App</string>
+          <string>Pic Clone AI</string>
         </dict>
       </dict>
     </array>
